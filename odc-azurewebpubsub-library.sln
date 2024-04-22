@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureWebPubSub.Library", "AzureWebPubSub.Library\AzureWebPubSub.Library.csproj", "{68538F21-DD1B-4642-A469-567B27761D5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureWebPubSub.Test", "AzureWebPubSub.Test\AzureWebPubSub.Test.csproj", "{721221E2-12F7-492B-8443-7EDD3B72372A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68538F21-DD1B-4642-A469-567B27761D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68538F21-DD1B-4642-A469-567B27761D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68538F21-DD1B-4642-A469-567B27761D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68538F21-DD1B-4642-A469-567B27761D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721221E2-12F7-492B-8443-7EDD3B72372A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721221E2-12F7-492B-8443-7EDD3B72372A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721221E2-12F7-492B-8443-7EDD3B72372A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721221E2-12F7-492B-8443-7EDD3B72372A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
